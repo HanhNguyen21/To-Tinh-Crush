@@ -1,7 +1,7 @@
 const CONFIG = {
-    introTitle: 'Này đầu đất',
+    introTitle: 'Này mặt mốc',
     introDesc: `Em thấy nhớ anh, em
-    Em thấy rất nhớ anh thoi
+    Em thấy hơi hơi nhớ anh thôi
     Ngày đêm cứ loay hoay
     Trong suy nghĩ về anh
     Anh có nhớ em không?
@@ -17,5 +17,5 @@ const CONFIG = {
     mess: 'Em biết mà, hihi 😚😚',
     messDesc: 'Vậy thì bớt chơi game lại đi:))',
     btnAccept: 'Dạ, anh biết gòi. Yêu emmmmmmm 🙆🙆',
-    messLink: 'http://fb.com' //messages/t/100014015913631
+    messLink: 'https://www.facebook.com/profile.php?id=100007190088615
 }
